@@ -16,7 +16,7 @@ class SongCollectionTest {
 	private Song s2;
 	private Song s3;
 	private Song s4;
-	private final int SONG_COLLECTION_SIZE = 4;
+	private final int SONG_COLLECTION_SIZE = 0;
 	private SongCollection sc_with_size;
 	private SongCollection sc_with_size_1;
 
